@@ -2,6 +2,8 @@
 
 This project is a Spam and Ham classifier using basic Natural Language Processing (NLP) techniques. It aims to classify messages as either spam or ham (non-spam) based on their content. The classification is performed using a Random Forest classifier and various NLP preprocessing steps.
 
+![image](img.jpg)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
